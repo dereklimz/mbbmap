@@ -1,0 +1,15 @@
+# Real LinkedIn data — contains names and profile links, never commit
+LinkedIn people profiles*.csv
+cleaned_profiles.csv
+*.xlsx
+*.db
+
+# Local tooling / OS / Python
+.claude/
+.agents/
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
