@@ -2,6 +2,8 @@
 
 Where do McKinsey, BCG and Bain consultants go next? MBBMap takes 621 real career histories of MBB alumni, tags every role, and shows each person's path **before, during and after** consulting, grouped into exit archetypes: founders, investors, big tech, product, strategy & ops and more.
 
+![MBBMap screenshot](screenshot.png)
+
 ## Features
 
 - **Career path cards.** Each profile is a timeline: undergrad → pre-MBB roles → MBB stint → exit → current role. MBB stints are color-coded by firm.
